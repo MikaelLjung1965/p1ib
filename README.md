@@ -20,7 +20,7 @@
     - [Example: Disable power switch when fuse amperage is above a given threshold](#example-disable-power-switch-when-fuse-amperage-is-above-a-given-threshold)
 - [Homey App](#homey-app)
 - [FAQ / Trouble shooting](#faq--trouble-shooting)
-cftfr
+
 
 # P1IB - P1 Interface Bridge
 P1IB (pronounced p-l-i-b) is a software (and hardware) designed to read and parse advanced power meter (AMS) telegrams from the P1
